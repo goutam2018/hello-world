@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in Here </a>.</p>
   </div>
 
-   <h1> Thank you From Goutam Sarkar! New DevOps Engineer! </h1>
+   <h1> Welcome To DevOps World! </h1>
 
   
 </form>
